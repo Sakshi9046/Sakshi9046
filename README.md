@@ -1,4 +1,4 @@
-![logo](https://github.com/Sakshi9046/Sakshi9046/blob/main/Untitled%20design.png)
+![logo](https://github.com/Sakshi9046/Sakshi9046/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hello👋, I'm Sakshi Singh From West Bengal, India.</h1>
 <h3 align="center">I am a Programmer and a Frontend Developer.</h3>
 <img align="right" width="400" src="https://github.com/Sakshi9046/Sakshi9046/blob/main/anim.gif">
