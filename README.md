@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋, I'm Sakshi Singh From West Bengal, India.</h1>
 <h3 align="center">I am a Programmer and a Frontend Developer.</h3>
-<img align="right" alt="codding" width="400" src="https://tenor.com/view/programming-gif-25868426">
+<img align="right" width="400" src="https://tenor.com/bUHIQ.gif">
 - 🌱 I’m currently learning **React JS and Java**
 
 - 📫 How to reach me **sakshisingh9046@gmail.com**
